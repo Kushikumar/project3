@@ -1,3 +1,2 @@
-jenkins
-git 
-
+docker
+docker,ansible,jenkins
