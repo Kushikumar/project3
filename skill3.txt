@@ -5,3 +5,4 @@ info100
 info 109
 kushi branch
 kushi2
+kushi fetch
